@@ -33,7 +33,7 @@ class ChatbotController extends Controller
     //       }
     //       ',
     //       CURLOPT_HTTPHEADER => array(
-    //         'Authorization: Bearer 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',
+    //         'Authorization: ?',
     //         'Content-Type: application/json'
     //       ),
     //     ));
